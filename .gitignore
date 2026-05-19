@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+target/
+
+# Build
+dist/
+build/
+*.jar
+
+# Environment
+.env
+.env.local
+.env.production
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+
+# Logs
+*.log
+logs/
